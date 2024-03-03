@@ -1,0 +1,17 @@
+{
+  "name": "fp-exercicios",
+  "version": "1.0.0",
+  "description": "Template de projeto Node.js 20 fornecendo a estrutura pra implementar processamento de dados com Programação Funcional e Estruturada em JS",
+  "main": "src/index.js",
+  "engines" : {
+    "node" : ">=20.0.0"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
